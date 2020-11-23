@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         mtv1.append("- REMOVE LIST: 선택한 단어장 보기\n");
         mtv1.append("- EXPORT: 현재 단어장 엑셀로 내보내기\n\n");
         mtv1.append("추후에 .xls 형식도 지원하고 퀴즈기능도 넣을 예정");
-        mtv1.append("github테스트22awser234");
+        mtv1.append("github테스트22aw");
 
         requestPermission();
 
